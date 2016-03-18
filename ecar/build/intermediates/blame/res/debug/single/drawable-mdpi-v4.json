@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_point_pre.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\icon_point_pre.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loading.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_skeleton_right.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\img_skeleton_right.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_orange_radian.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\btn_orange_radian.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_appearance_left.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\img_appearance_left.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\radio_bg_select.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\radio_bg_select.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pay_select_img.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\pay_select_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\lock.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pay_unselect_img.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\pay_unselect_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_appearance_behind.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\img_appearance_behind.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_red_bg_click.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\btn_red_bg_click.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_other_bottom.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\img_other_bottom.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_head.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\img_head.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_selected_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\setting_item_3.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\setting_item_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_appearance_front.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\img_appearance_front.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_search.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mine_item_4.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\mine_item_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_auction.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\menu_auction.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\auction_account.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\auction_account.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_red_bg.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\btn_red_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_voice_search.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_auction_clicked.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\menu_auction_clicked.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\register_checkbox_bg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\register_checkbox_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mine_item_5.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\mine_item_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mine_item_2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\mine_item_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_skeleton_left.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\img_skeleton_left.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_discover_clicked.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\menu_discover_clicked.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_key.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\img_key.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_main_banner_bg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\img_main_banner_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\red_fdj.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\red_fdj.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_point.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\icon_point.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\guide0.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\guide0.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\gotomain.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\gotomain.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mine_item_0.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\mine_item_0.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\my_auction_withdraw.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\my_auction_withdraw.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_mine.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\menu_mine.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_other_front.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\img_other_front.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_detail_banner_bg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\img_detail_banner_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\radio_bg_unselect.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\radio_bg_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_other_behind.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\img_other_behind.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_interior.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\img_interior.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\red_level_bg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\red_level_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\telphone.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\telphone.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\account_pay.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\account_pay.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_discover.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\menu_discover.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mine_info_bg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\mine_info_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_solid_light_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_white_radian.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\btn_white_radian.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\car_detail_query.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\car_detail_query.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_red_radian.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\btn_red_radian.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_share.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\img_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\register_checkbox_bg_click.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\register_checkbox_bg_click.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mine_item_3.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\mine_item_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_appearance_right.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\img_appearance_right.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_mine_clicked.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\menu_mine_clicked.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_share_pack_holo_dark.9.png"
+    }
+]

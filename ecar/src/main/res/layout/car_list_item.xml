@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+    <RelativeLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@layout/menu_auction_tab_selector">
+        <ImageView 
+            android:id="@+id/carImg"
+            android:layout_width="95dp"
+            android:layout_height="63dp"
+            android:background="@color/line_color"/>
+        <RelativeLayout 
+            android:id="@+id/layInfor"
+            android:layout_marginLeft="5dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/carImg" >
+
+            <TextView
+                android:id="@+id/textBrand"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:textColor="@color/grey_333333"
+                android:textSize="12sp"
+                android:text="兰博基尼   Murcielago LP670-4 SV">
+            </TextView>
+
+            <TextView
+                android:id="@+id/textInfor"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textBrand"
+                android:gravity="center_vertical"
+                android:textColor="@color/grey_333333"
+                android:textSize="12sp"
+                android:text="2015年10月/7万公里/福州">
+            </TextView>
+            <TextView 
+                android:id="@+id/textScore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="AA100"
+                android:textColor="@color/white_FFFFFF"
+                android:gravity="center"
+                android:paddingLeft="2dp"
+                android:paddingRight="2dp"
+                android:layout_below="@+id/textInfor"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/red_level_bg"/>
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

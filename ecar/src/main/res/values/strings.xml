@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">朋友e车商户端</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="back">返回</string>
+    
+    <string name="login">个人登入</string>
+    <string name="loginForgetPassword">忘记密码?</string>
+    <string name="loginAccount">登入账号</string>
+    <string name="inputPhoneNum">请输入手机号码</string>
+    <string name="inputPassword">请输入密码</string>
+    <string name="registerNow">立即注册</string>
+    
+    <string name="merchantRegister">商户注册</string>
+    <string name="setPassword">请设置密码</string>
+    <string name="inputVerificationCode">请输入验证码</string>
+    <string name="getVerificationCode">获取验证码</string>
+    <string name="forgetPassword">忘记密码</string>
+    <string name="sureSubmit">确认提交</string>
+    <string name="readAndAgree">我已阅读并同意</string>
+    <string name="pyecAgreement">《朋友e车商户端协议》</string>
+    
+    <string name="myAuction">我的竞价</string>
+    <string name="auctionHall">竞价大厅</string>
+    <string name="auctionNow">正在竞价</string>
+    <string name="auctionfinish">竞价完成</string>
+    
+    <string name="carDetail">车辆详情</string>
+    <string name="takePartAuction">我要竞价</string>
+    <string name="revisedPrice">修改价格</string>
+    <string name="grade">综合评级:</string>
+    <string name="auctionAgreement">竞价协议</string>
+    <string name="remark">注：交易价格包含车价和服务费</string>
+    
+    <string name="survey">概况</string>
+    <string-array name="carBaseInfo">
+		<item name="carBaseInfo_0">表显里程(公里)</item>
+		<item name="carBaseInfo_1">变速箱</item>
+		<item name="carBaseInfo_2">品牌型号</item>
+		<item name="carBaseInfo_3">出厂日期</item>
+		<item name="carBaseInfo_4">车辆使用性质</item>
+		<item name="carBaseInfo_5">交强险</item>
+		<item name="carBaseInfo_6">排放标准</item>
+		<item name="carBaseInfo_7">车辆产权证</item>
+		<item name="carBaseInfo_8">发动机变更</item>
+		<item name="carBaseInfo_9">备胎</item>
+		<item name="carBaseInfo_10">车牌归属地</item>
+		<item name="carBaseInfo_11">车辆所有人性质</item>
+		<item name="carBaseInfo_12">车身颜色</item>
+		<item name="carBaseInfo_13">初登日期</item>
+		<item name="carBaseInfo_14">年检日期</item>
+		<item name="carBaseInfo_15">车辆所在地</item>
+		<item name="carBaseInfo_16">过户次数</item>
+		<item name="carBaseInfo_17">颜色变更</item>
+		<item name="carBaseInfo_18">车架变更</item>
+		<item name="carBaseInfo_19">随车附件</item>
+	</string-array>
+	
+    <string-array name="carBaseConfig">
+		<item name="carBaseConfig_0">指导价(万元)</item>
+		<item name="carBaseConfig_1">供油方式</item>
+		<item name="carBaseConfig_2">车身形式</item>
+		<item name="carBaseConfig_3">前轮胎规格</item>
+		<item name="carBaseConfig_4">后轮胎规格</item>
+		<item name="carBaseConfig_5">轮毂材料</item>
+		<item name="carBaseConfig_6">最大功率(KW)</item>
+		<item name="carBaseConfig_7">气囊数</item>
+		<item name="carBaseConfig_8">车型类型</item>
+		<item name="carBaseConfig_9">燃油类型</item>
+		<item name="carBaseConfig_10">驱动形式</item>
+		<item name="carBaseConfig_11">车门数</item>
+		<item name="carBaseConfig_12">座位数</item>
+		<item name="carBaseConfig_13">备胎规格</item>
+		<item name="carBaseConfig_14">最大马力(Ps)</item>
+		<item name="carBaseConfig_15">扬声器数</item>
+    </string-array>
+    
+        <string-array name="carMainConfig">
+		<item name="carMainConfig_0">遥控钥匙</item>
+		<item name="carMainConfig_1">真皮方向盘</item>
+		<item name="carMainConfig_2">多功能方向盘</item>
+		<item name="carMainConfig_3">真皮座椅</item>
+		<item name="carMainConfig_4">氙气大灯</item>
+		<item name="carMainConfig_5">定速巡航</item>
+		<item name="carMainConfig_6">电动车窗</item>
+		<item name="carMainConfig_7">倒车视频影像</item>
+		<item name="carMainConfig_8">行车电脑显示屏</item>
+		<item name="carMainConfig_9">后视镜电动调节</item>        
+		<item name="carMainConfig_10">GPS导航</item>
+		<item name="carMainConfig_11">中控台彩色大屏</item>
+		<item name="carMainConfig_12">自动空调</item>
+		<item name="carMainConfig_13">倒车雷达</item>
+		<item name="carMainConfig_14">电动天窗</item>
+		<item name="carMainConfig_15">LED大灯</item>
+		<item name="carMainConfig_16">随车配件</item>
+		<item name="carMainConfig_17">驾驶座椅电动调节</item>
+    </string-array>
+    
+    
+    <string name="appearance">外观</string>
+    <string name="skeleton">骨架</string>
+    <string name="interior">内饰</string>
+    <string name="other">其它</string>
+    
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="release_to_refresh">释放立即刷新</string>
+    <string name="refreshing">正在刷新...</string>
+    <string name="refresh_succeed">刷新成功</string>
+    <string name="refresh_fail">刷新失败</string>
+    <string name="pullup_to_load">上拉加载更多</string>
+    <string name="release_to_load">释放立即加载</string>
+    <string name="loading">正在加载...</string>
+    <string name="load_succeed">加载成功</string>
+    <string name="load_fail">加载失败</string>
+    
+    
+    <string name="query4S">4S保养查询</string>
+    <string name="vin">VIN码车辆查询</string>
+    <string name="illegalQuery">车辆违章查询</string>
+    <string name="carEvaluation">车辆估价</string>
+    <string name="limitMove">限迁标准查询</string>
+    
+    
+    
+    
+    <string name="mine">我</string>
+    <string name="clickToLogin">点击登入</string>
+    
+    <string name="auctionRecord">竞价记录</string>
+    <string name="myAuctionUnderway">竞价中</string>
+    <string name="myAuctionSuccess">竞价成功</string>
+    <string name="myAuctionFail">竞价失败</string>
+    
+    
+    <string name="myAccount">我的账户</string>
+    <string name="auctionAccount">竞价账户</string>
+    <string name="payAccount">消费账户</string>
+    
+    <string name="recharge">充值</string>
+    <string name="rechargeMoney">充值金额</string>
+    <string name="inputRechargeMoney">请输入金额</string>
+    <string name="rechargeTips">温馨提示：充值金额在一元到一万元之间</string>
+    <string name="payWay">支付方式</string>
+    <string name="aliPay">支付宝</string>
+    <string name="weiXinPay">微信</string>
+    
+    <string name="nextStep">下一步</string>
+    
+    <string name="withdrawals">提现</string>
+    <string name="moneyIcon">￥</string>
+    <string name="withdrawalsCnt">可提现金额</string>
+    <string name="money">金额(元)</string>
+    <string name="inputWithdrawalsCnt">输入提现金额</string>
+    <string name="withdrawalsPwd">提现密码</string>
+    <string name="inputWithdrawalsPwd">输入提现密码</string>
+    <string name="sureWithdrawals">确认提现</string>
+    
+    <string name="hurryBuyAndSell">急求急售</string>
+    
+    <string name="perfectData">完善资料</string>
+    <string name="inputName">请输入真实姓名</string>
+    <string name="inputShopName">请输入车行名称</string>
+    <string name="inputShopAddress">请输入车行所在地</string>
+    <string name="inputDetailAddress">请输入详细地址</string>
+    <string name="setWithdrawalsPwd">设置提现密码</string>
+    <string name="takePhotoFront">上传身份证正面</string>
+    <string name="takePhotoBehind">上传身份证背面</string>
+    <string name="submitExamine">提交审核</string>
+    
+    <string name="setting">设置</string>
+    <string name="changePassword">修改密码</string>
+    <string name="aboutUs">关于我们</string>
+    <string name="exitLogin">退出登入</string>
+    <string name="currentVersion">当前版本</string>
+    
+    
+    <string name="shareGift">分享有礼</string>
+</resources>

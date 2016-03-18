@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_studio\android-studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\ecar\ecar\build\intermediates\pre-dexed\debug\gson-2.2.4_ca315dfde2fca3ada925001ed779458f1838206b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\ecar\ecar\libs\KJFrameForAndroid_v2.223.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="316711f83463099d8adb44113cfd6d8b3cc7c614">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\ecar\ecar\build\intermediates\pre-dexed\debug\KJFrameForAndroid_v2.223_210b7ccd82919135385035ed404cffd323948337.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\ecar\ecar\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\ecar\ecar\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_7960f5b152208c0b81deab69dab8b844626b96d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\ecar\ecar\libs\android-async-http-1.4.6.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\ecar\ecar\build\intermediates\pre-dexed\debug\android-async-http-1.4.6_1fe6da1117c3cad5a1dc07aa9f484b8948bc1eb6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\ecar\ecar\build\intermediates\pre-dexed\debug\support-v4-19.1.0_bafc08b88af2fe8abfdbce7ffc7feeff4fc1170d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\ecar\ecar\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a36a6ad3a1578cb0432a966c777197b77b3c33d7">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\ecar\ecar\build\intermediates\pre-dexed\debug\classes_5400a41fdc03e9140a32fc58240721a7d82a0eb3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\ecar\ecar\libs\httpmime-4.2.5.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="412b9914d0adec6d5716df1ada8acbc4f6f2dd37">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\ecar\ecar\build\intermediates\pre-dexed\debug\httpmime-4.2.5_793c188a80716850b0ddb5192e162bf8e7fc8f02.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\ecar\ecar\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="41fa5985de319f67d79a1fc8db6764566aec2e6a">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\ecar\ecar\build\intermediates\pre-dexed\debug\instant-run_7ed7476f71e9fed791f9f46efc0b461a58cf9df8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\ecar\ecar\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\ecar\ecar\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_0569eccee69ae1e94cf40f01cca8b761a5042ab3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\ecar\ecar\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cd62865d067ecdb3efc9d321e82e4a2832a50259">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\ecar\ecar\build\intermediates\pre-dexed\debug\BaiduLBS_Android_a84d380dc9eb0813cb9f3b3fae2712d8eea6c9e9.jar" />
+    </item>
+
+</items>
