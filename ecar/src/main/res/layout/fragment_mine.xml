@@ -1,0 +1,304 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/layTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@color/white_FFFFFF" >
+
+        <LinearLayout
+            android:id="@+id/layBack"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="10dp"
+            android:gravity="center_vertical" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/img_back" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="@string/back"
+                android:textColor="@color/red_FF3300" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/mine"
+            android:textColor="@color/red_FF3300"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/btnPhone"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/red_phone" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:layout_alignParentBottom="true"
+            android:background="@color/line_color" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layUserData"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/mine_info_bg" >
+
+        <ImageView
+            android:id="@+id/userPhoto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="50dp"
+            android:background="@drawable/img_head" />
+
+        <RelativeLayout
+            android:id="@+id/layUserInfor"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="50dp"
+            android:layout_toRightOf="@+id/userPhoto" >
+
+            <TextView
+                android:id="@+id/textUserName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/clickToLogin"
+                android:textColor="@color/white_FFFFFF" />
+
+            <LinearLayout
+                android:id="@+id/layUserAccount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textUserName"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" >
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/pay_unselect_img" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:text="拍"
+                        android:textColor="@color/red_FF3300" />
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/textAuctionBalance"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="100.00"
+                    android:textColor="@color/white_FFFFFF" />
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="50dp" >
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/pay_unselect_img" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:text="金"
+                        android:textColor="@color/red_FF3300" />
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/textBuyBalance"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="100.00"
+                    android:textColor="@color/white_FFFFFF" />
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+    <!-- 竞价记录 -->
+
+    <LinearLayout
+        android:id="@+id/layAuctionRecord"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@color/white_FFFFFF"
+        android:gravity="center_vertical" >
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/mine_item_0" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="@string/auctionRecord"
+            android:textColor="@color/grey_999999" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:background="@color/line_color" />
+    <!-- 我的账户 -->
+
+    <LinearLayout
+        android:id="@+id/layMyAccount"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@color/white_FFFFFF"
+        android:gravity="center_vertical" >
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/mine_item_2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="@string/myAccount"
+            android:textColor="@color/grey_999999" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:background="@color/line_color" />
+
+    <!-- 我的账户 -->
+
+    <LinearLayout
+        android:id="@+id/layHurryBuyAndSell"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@color/white_FFFFFF"
+        android:gravity="center_vertical" >
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/mine_item_3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="@string/hurryBuyAndSell"
+            android:textColor="@color/grey_999999" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:background="@color/line_color" />
+
+    <!-- 完善资料 -->
+
+    <LinearLayout
+        android:id="@+id/layPerfectData"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@color/white_FFFFFF"
+        android:gravity="center_vertical" >
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/mine_item_4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="@string/perfectData"
+            android:textColor="@color/grey_999999" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:background="@color/line_color" />
+
+    <!-- 设置 -->
+
+    <LinearLayout
+        android:id="@+id/laySetting"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@color/white_FFFFFF"
+        android:gravity="center_vertical" >
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/mine_item_5" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="@string/setting"
+            android:textColor="@color/grey_999999" />
+    </LinearLayout>
+
+        <View
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:background="@color/line_color" />
+
+    <!-- 分享有礼 -->
+
+    <LinearLayout
+        android:id="@+id/layShareGift"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@color/white_FFFFFF"
+        android:gravity="center_vertical" >
+
+        <ImageView
+            android:layout_width="19dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/img_share" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="@string/shareGift"
+            android:textColor="@color/grey_999999" />
+    </LinearLayout>
+</LinearLayout>

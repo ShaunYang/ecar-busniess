@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:background="@color/grey_F1F1F1" />
+    <com.pyec.ecarbusiness.baseClass.PullToRefreshLayout
+        android:id="@+id/refresh_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <include layout="@layout/refresh_head" />
+
+        <com.pyec.ecarbusiness.baseClass.MyListView
+            android:id="@+id/list"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:divider="@color/grey_F1F1F1"
+            android:dividerHeight="1px"
+            android:scrollbars="none"
+            android:footerDividersEnabled="false"
+            android:headerDividersEnabled="false" />
+
+        <include layout="@layout/load_more" />
+    </com.pyec.ecarbusiness.baseClass.PullToRefreshLayout>
+
+</LinearLayout>

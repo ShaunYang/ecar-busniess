@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\activity_withdrawals.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\activity_withdrawals.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_account_detail.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\activity_my_account_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_head.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\refresh_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\activity_car_detail_tab.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\activity_car_detail_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\cbox_agreement_select.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\cbox_agreement_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_auction.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\activity_my_auction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\load_more.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\load_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\car_list_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\car_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_auction_new.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\fragment_auction_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\car_fragment_apparence.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\car_fragment_apparence.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_auction.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\fragment_auction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\view_banner.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\view_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\car_detail_part1.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\car_detail_part1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\progressloading.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\progressloading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\car_detail_part3.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\car_detail_part3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\view_cycle_viewpager_contet.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\view_cycle_viewpager_contet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\car_check_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\car_check_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_auction_now.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\fragment_auction_now.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\car_check_head.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\car_check_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\activity_perfect_data.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\activity_perfect_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\car_detail_part0.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\car_detail_part0.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\car_check_item_title.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\car_check_item_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\main_tab_layout.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\main_tab_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\car_detail_tab_select.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\car_detail_tab_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\car_fragment_other.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\car_fragment_other.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_auction_finish.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\fragment_auction_finish.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\view_cycle_viewpager_indicator.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\view_cycle_viewpager_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\guide_2.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\guide_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\auction_tab_selector.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\auction_tab_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\car_fragment_info.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\car_fragment_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\guide_1.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\guide_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\tab_menu_mine.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\tab_menu_mine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\menu_mine_selector.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\menu_mine_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\car_fragment_interior.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\car_fragment_interior.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\car_fragment_comment.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\car_fragment_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\menu_discover_selector.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\menu_discover_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_discover.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\fragment_discover.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget_password.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\activity_forget_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\tab_menu_discover.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\tab_menu_discover.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\guide_0.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\guide_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\car_detail_activity.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\car_detail_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\car_list_item_title.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\car_list_item_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\car_detail_part4.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\car_detail_part4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_account.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\activity_my_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\car_fragment_skeleton.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\car_fragment_skeleton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\car_detail_head.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\car_detail_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recharge.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\activity_recharge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_preview.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\activity_image_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\tab_menu_auction.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\tab_menu_auction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\guide_3.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\guide_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mine.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\fragment_mine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\menu_auction_tab_selector.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\menu_auction_tab_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\car_detail_part2.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\car_detail_part2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\image_preview_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\image_preview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\btn_red.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\btn_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\build\\intermediates\\res\\merged\\debug\\layout\\auction_page_tab.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ecar\\ecar\\src\\main\\res\\layout\\auction_page_tab.xml"
+    }
+]
